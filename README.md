@@ -24,11 +24,4 @@ Ce projet a été conçu comme une démonstration de compétences en :
 
 ## 📂 Structure du projet
 
-agents_simulation/
-├── Agent.py
-├── Environment.py
-├── Simulation.py
-├── logger.py
-├── main.py
-├── config.yaml # (optionnel)
-└── log.txt # généré automatiquement
+<pre> 📁 agents_simulation/ ├── 📄 Agent.py # Comportement de chaque agent ├── 📄 Environment.py # Grille et obstacles ├── 📄 Simulation.py # Moteur de simulation ├── 📄 logger.py # Journalisation dans log.txt ├── 📄 main.py # Script principal à exécuter ├── 📄 config.yaml # (optionnel) paramètres de simulation └── 📄 log.txt # Généré automatiquement après exécution </pre>
